@@ -38,10 +38,10 @@ enum Group {
 };
 
 ```
-🖥️ How to Compile
+## 🖥️ How to Compile
 
 Using GCC:
-
+```c
 gcc main.c UserManagementSystem.c -o user_mgmt
 ./user_mgmt
 ```
